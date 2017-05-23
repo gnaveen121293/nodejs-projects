@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-new-webproject",
+  "version": "1.0.1",
+  "description": "this my first web2 app",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnaveen121293/nodejs-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnaveen121293/nodejs-projects/issues"
+  },
+  "homepage": "https://github.com/gnaveen121293/nodejs-projects#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}

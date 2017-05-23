@@ -1,0 +1,14 @@
+{
+  "name": "node-web-appss",
+  "version": "1.0.1",
+  "description": "This is my first web project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen Goverthanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
